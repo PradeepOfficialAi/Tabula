@@ -1,0 +1,12 @@
+C:\Live Projects\Tabula\Tabula.Json\bin\Debug\net6.0\Tabula.Json.deps.json
+C:\Live Projects\Tabula\Tabula.Json\bin\Debug\net6.0\Tabula.Json.dll
+C:\Live Projects\Tabula\Tabula.Json\bin\Debug\net6.0\Tabula.Json.pdb
+C:\Live Projects\Tabula\Tabula.Json\obj\Debug\net6.0\Tabula.Json.csproj.AssemblyReference.cache
+C:\Live Projects\Tabula\Tabula.Json\obj\Debug\net6.0\Tabula.Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Live Projects\Tabula\Tabula.Json\obj\Debug\net6.0\Tabula.Json.AssemblyInfoInputs.cache
+C:\Live Projects\Tabula\Tabula.Json\obj\Debug\net6.0\Tabula.Json.AssemblyInfo.cs
+C:\Live Projects\Tabula\Tabula.Json\obj\Debug\net6.0\Tabula.Json.csproj.CoreCompileInputs.cache
+C:\Live Projects\Tabula\Tabula.Json\obj\Debug\net6.0\Tabula.Json.dll
+C:\Live Projects\Tabula\Tabula.Json\obj\Debug\net6.0\refint\Tabula.Json.dll
+C:\Live Projects\Tabula\Tabula.Json\obj\Debug\net6.0\Tabula.Json.pdb
+C:\Live Projects\Tabula\Tabula.Json\obj\Debug\net6.0\ref\Tabula.Json.dll

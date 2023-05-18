@@ -1,0 +1,12 @@
+C:\Live Projects\Tabula\Tabula.Csv\bin\Debug\net6.0\Tabula.Csv.deps.json
+C:\Live Projects\Tabula\Tabula.Csv\bin\Debug\net6.0\Tabula.Csv.dll
+C:\Live Projects\Tabula\Tabula.Csv\bin\Debug\net6.0\Tabula.Csv.pdb
+C:\Live Projects\Tabula\Tabula.Csv\obj\Debug\net6.0\Tabula.Csv.csproj.AssemblyReference.cache
+C:\Live Projects\Tabula\Tabula.Csv\obj\Debug\net6.0\Tabula.Csv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Live Projects\Tabula\Tabula.Csv\obj\Debug\net6.0\Tabula.Csv.AssemblyInfoInputs.cache
+C:\Live Projects\Tabula\Tabula.Csv\obj\Debug\net6.0\Tabula.Csv.AssemblyInfo.cs
+C:\Live Projects\Tabula\Tabula.Csv\obj\Debug\net6.0\Tabula.Csv.csproj.CoreCompileInputs.cache
+C:\Live Projects\Tabula\Tabula.Csv\obj\Debug\net6.0\Tabula.Csv.dll
+C:\Live Projects\Tabula\Tabula.Csv\obj\Debug\net6.0\refint\Tabula.Csv.dll
+C:\Live Projects\Tabula\Tabula.Csv\obj\Debug\net6.0\Tabula.Csv.pdb
+C:\Live Projects\Tabula\Tabula.Csv\obj\Debug\net6.0\ref\Tabula.Csv.dll
